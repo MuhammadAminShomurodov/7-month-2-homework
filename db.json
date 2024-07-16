@@ -1,0 +1,19 @@
+{
+  "Students": [
+    { "id": 1, "firstName": "Aiden", "lastName": "Harris", "group": "HR" },
+    { "id": 2, "firstName": "Olivia", "lastName": "Martinez", "group": "IT" },
+    { "id": 3, "firstName": "Ethan", "lastName": "Clark", "group": "Finance" },
+    { "id": 4, "firstName": "Sophia", "lastName": "Rodriguez", "group": "HR" },
+    { "id": 5, "firstName": "Liam", "lastName": "Lewis", "group": "IT" },
+    {
+      "id": 6,
+      "firstName": "Isabella",
+      "lastName": "Walker",
+      "group": "Finance"
+    },
+    { "id": 7, "firstName": "Mason", "lastName": "Young", "group": "HR" },
+    { "id": 8, "firstName": "Mia", "lastName": "King", "group": "IT" },
+    { "id": 9, "firstName": "Noah", "lastName": "Wright", "group": "Finance" },
+    { "id": 10, "firstName": "Emma", "lastName": "Hill", "group": "HR" }
+  ]
+}
